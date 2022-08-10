@@ -1,3 +1,4 @@
 # smart_stack
 
-test
+## Main ideas
+![first_ideas](https://github.com/MateusMartins/smart_stack/blob/main/documentation/brain_storming.png)
