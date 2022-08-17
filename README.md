@@ -11,3 +11,8 @@ This project will be used to absorve and devolop more things about financial dat
 ## Team 
 - Mateus Martins Ferreira | @MateusMartins | mateusmferreira@live.com
 - Ariel Vaz de Alcantara Marinho | | 
+
+
+### Librarys
+- pandas
+- lxml
